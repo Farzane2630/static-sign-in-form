@@ -37,7 +37,7 @@ export default class App extends React.Component {
 
     submitHandler(event){
         event.preventDefault()
-        this.setState({submitted: 'true' })
+        this.setState({submitted: true })
         this.successHandler()
     }
 
