@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:300);
 
 body {
-  background: #76b852;
+  background: #433a54;
   display: flex;
   min-height: 100vh;
   justify-content: center;
@@ -25,7 +25,7 @@ body {
 
 .success-message {
   font-family: "Roboto", sans-serif;
-  background-color: #3f89f8;
+  background-color: #27750a;
   padding: 15px;
   color: white;
 }
@@ -55,7 +55,7 @@ input {
 }
 
 button {
-  background: #4caf50;
+  background: #160a2f;
   color: white;
   cursor: pointer;
 }
